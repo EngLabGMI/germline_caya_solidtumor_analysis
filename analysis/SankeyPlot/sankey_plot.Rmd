@@ -1,0 +1,35 @@
+---
+title: "Snaky_plot"
+author: "Roshan Padmanabhan"
+date: "5/26/2019"
+output: html_document
+---
+
+
+```{r}
+suppressPackageStartupMessages({
+  library(networkD3)
+  library(tidyverse)
+})
+```
+
+- Read in the data
+```{r}
+names = read.csv("data/for_sk_names.csv", sep=",")
+linker = read.csv("data/for_sk_linker.csv", sep="\t")
+```
+
+```{r}
+pdf(file = "plots/sankey_plot.pdf")
+sankeyNetwork(Links = linker, Nodes = names, height=1800,width=2200,iterations = 100,
+              colourScale = JS("d3.scaleOrdinal(d3.schemeCategory20);"),
+ Source = "source", Target = "target",Value = "value",
+ NodeID = "names",
+ LinkGroup = "LinkGroupID",
+ #NodeGroup = "NodeGroupID",
+ fontSize= 18, 
+ nodeWidth=30,nodePadding=10,margin=-0.12,
+  sinksRight=F)
+dev.off()
+
+```

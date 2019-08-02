@@ -1,0 +1,511 @@
+S1	T1	source	target	value	LinkGroupID
+EWS	ICK	0	14	1	TT_G
+LGG	TDP1	1	15	1	TT_G
+OS	GLRA1	2	16	1	TT_G
+EWS	LDLR	0	17	1	TT_G
+STS	GNRHR	3	18	1	TT_G
+OS	TP53	2	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	CYP11B1	4	20	1	TT_G
+ACT	STAT5B	4	21	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	TP53	4	19	1	TT_G
+ACT	NTRK1	4	22	1	TT_G
+CNS	MC4R	5	23	1	TT_G
+CNS	AKR1C1	5	24	1	TT_G
+CNS	ALK	5	25	1	TT_G
+CNS	CD3D	5	26	1	TT_G
+CNS	CA12	5	27	1	TT_G
+CNS	BRCA1	5	28	1	TT_G
+CNS	RET	5	29	1	TT_G
+CNS	ADA	5	30	1	TT_G
+CNS	AR	5	31	1	TT_G
+CNS	WRN	5	32	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	CTSA	5	34	1	TT_G
+CNS	PSMB8	5	35	1	TT_G
+CNS	TUBB1	5	36	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	GLRA1	5	16	1	TT_G
+CNS	BRCA1	5	28	1	TT_G
+CNS	DHCR7	5	37	1	TT_G
+CNS	JAK3	5	38	1	TT_G
+CNS	MERTK	5	39	1	TT_G
+CNS	DHCR7	5	37	1	TT_G
+CNS	EPHB4	5	40	1	TT_G
+CNS	NR0B1	5	41	1	TT_G
+CNS	TBXAS1	5	42	1	TT_G
+CNS	MYO3A	5	43	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	CA12	5	27	1	TT_G
+CNS	DHODH	5	44	1	TT_G
+CNS	RECQL	5	45	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	CHEK2	5	33	1	TT_G
+CNS	ACVRL1	5	46	1	TT_G
+CNS	CYP11B1	5	20	1	TT_G
+EWS	CHEK2	0	33	1	TT_G
+EWS	WRN	0	32	1	TT_G
+EWS	CHEK2	0	33	1	TT_G
+EWS	POLE	0	47	1	TT_G
+EWS	CHEK2	0	33	1	TT_G
+EWS	FLT3	0	48	1	TT_G
+EWS	LATS1	0	49	1	TT_G
+EWS	CA4	0	50	1	TT_G
+EWS	ESRRB	0	51	1	TT_G
+EWS	BRCA1	0	28	1	TT_G
+EWS	ABCC2	0	52	1	TT_G
+GCT	POLE	6	47	1	TT_G
+GCT	DHCR7	6	37	1	TT_G
+GCT	CHEK2	6	33	1	TT_G
+GCT	BLM	6	53	1	TT_G
+GCT	MAP3K20	6	54	1	TT_G
+GCT	ACVRL1	6	46	1	TT_G
+GCT	BMPR1A	6	55	1	TT_G
+HGG	TGFBR2	7	56	1	TT_G
+HGG	AKR1C1	7	24	1	TT_G
+HGG	TUBB3	7	57	1	TT_G
+HGG	EPHA2	7	58	1	TT_G
+HGG	LDLR	7	17	1	TT_G
+HGG	PSMB8	7	35	1	TT_G
+HGG	DHCR7	7	37	1	TT_G
+HGG	KCNH2	7	59	1	TT_G
+NBL	IL11RA	8	60	1	TT_G
+NBL	IL2RA	8	61	1	TT_G
+NBL	CHEK2	8	33	1	TT_G
+NBL	DHCR7	8	37	1	TT_G
+NBL	POLH	8	62	1	TT_G
+NBL	DHCR7	8	37	1	TT_G
+NBL	TP53	8	19	1	TT_G
+NBL	CYP11B1	8	20	1	TT_G
+NBL	CYP11B1	8	20	1	TT_G
+NBL	POLE	8	47	1	TT_G
+NBL	JAK3	8	38	1	TT_G
+NBL	RBP4	8	63	1	TT_G
+NBL	MYO3A	8	43	1	TT_G
+NBL	ALK	8	25	1	TT_G
+NBL	CHEK2	8	33	1	TT_G
+NBL	CHEK2	8	33	1	TT_G
+NBL	AKR1C1	8	24	1	TT_G
+NBL	ERBB4	8	64	1	TT_G
+NBL	ESRRB	8	51	1	TT_G
+NBL	CHEK2	8	33	1	TT_G
+OS	RECQL	2	45	1	TT_G
+OS	MERTK	2	39	1	TT_G
+OS	ADA	2	30	1	TT_G
+OS	VDR	2	65	1	TT_G
+OS	RECQL	2	45	1	TT_G
+OS	ADA	2	30	1	TT_G
+OS	MUSK	2	66	1	TT_G
+OS	RIPK4	2	67	1	TT_G
+OS	GNRHR	2	18	1	TT_G
+OS	POLH	2	62	1	TT_G
+OS	IL12B	2	68	1	TT_G
+OS	CHEK2	2	33	1	TT_G
+OS	MYLK	2	69	1	TT_G
+OS	C5	2	70	1	TT_G
+PGL	CA12	9	27	1	TT_G
+RB	EIF2AK4	10	71	1	TT_G
+RB	ALK	10	25	1	TT_G
+RB	DHODH	10	44	1	TT_G
+RB	BRCA1	10	28	1	TT_G
+RB	MC4R	10	23	1	TT_G
+RB	CHEK2	10	33	1	TT_G
+RB	BLM	10	53	1	TT_G
+RB	CYP19A1	10	72	1	TT_G
+RB	JAK3	10	38	1	TT_G
+RB	EGFR	10	73	1	TT_G
+RB	CYP11B1	10	20	1	TT_G
+RB	BRCA1	10	28	1	TT_G
+RHB	CA12	11	27	1	TT_G
+RHB	ADA	11	30	1	TT_G
+RHB	MAP3K20	11	54	1	TT_G
+RHB	SLCO1B3	11	74	1	TT_G
+RHB	CHEK2	11	33	1	TT_G
+RHB	TP53	11	19	1	TT_G
+RHB	GLRA1	11	16	1	TT_G
+RHB	DHCR7	11	37	1	TT_G
+RHB	ADA	11	30	1	TT_G
+RHB	CA12	11	27	1	TT_G
+OST	MYO3A	12	43	1	TT_G
+STS	JAK3	3	38	1	TT_G
+STS	DHCR7	3	37	1	TT_G
+STS	MC4R	3	23	1	TT_G
+STS	BMPR2	3	75	1	TT_G
+STS	BRCA1	3	28	1	TT_G
+STS	IMPDH1	3	76	1	TT_G
+STS	HBB	3	77	1	TT_G
+STS	KIT	3	78	1	TT_G
+STS	CYP11B1	3	20	1	TT_G
+STS	MC4R	3	23	1	TT_G
+STS	BRCA1	3	28	1	TT_G
+STS	AR	3	31	1	TT_G
+STS	NTRK1	3	22	1	TT_G
+WLM	NR1H4	13	79	1	TT_G
+WLM	ICAM1	13	80	1	TT_G
+WLM	DHCR7	13	37	1	TT_G
+WLM	EPHX2	13	81	1	TT_G
+WLM	ERBB3	13	82	1	TT_G
+WLM	MAP3K20	13	54	1	TT_G
+WLM	HDAC10	13	83	1	TT_G
+WLM	CYP19A1	13	72	1	TT_G
+WLM	PNP	13	84	1	TT_G
+WLM	CA12	13	27	1	TT_G
+WLM	HBB	13	77	1	TT_G
+WLM	DHCR7	13	37	1	TT_G
+WLM	MERTK	13	39	1	TT_G
+WLM	RXRG	13	85	1	TT_G
+WLM	ABCC2	13	52	1	TT_G
+WLM	CHEK2	13	33	1	TT_G
+WLM	MERTK	13	39	1	TT_G
+WLM	CHEK2	13	33	1	TT_G
+WLM	PDGFRA	13	86	1	TT_G
+WLM	DHODH	13	44	1	TT_G
+WLM	MAP3K20	13	54	1	TT_G
+WLM	CYP11B1	13	20	1	TT_G
+WLM	KIT	13	78	1	TT_G
+ICK	suggesting	14	87	1	G_KS
+TDP1	suggesting	15	87	1	G_KS
+GLRA1	suggesting	16	87	1	G_KS
+LDLR	suggesting	17	87	1	G_KS
+GNRHR	suggesting	18	87	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+STAT5B	suggesting	21	87	1	G_KS
+TP53	known	19	88	1	G_KS
+TP53	known	19	88	1	G_KS
+NTRK1	known	22	88	1	G_KS
+MC4R	suggesting	23	87	1	G_KS
+AKR1C1	suggesting	24	87	1	G_KS
+ALK	known	25	88	1	G_KS
+CD3D	suggesting	26	87	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+RET	known	29	88	1	G_KS
+ADA	suggesting	30	87	1	G_KS
+AR	known	31	88	1	G_KS
+WRN	known	32	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+CTSA	suggesting	34	87	1	G_KS
+PSMB8	suggesting	35	87	1	G_KS
+TUBB1	suggesting	36	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+GLRA1	suggesting	16	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+DHCR7	known	37	88	1	G_KS
+JAK3	suggesting	38	87	1	G_KS
+MERTK	suggesting	39	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+EPHB4	suggesting	40	87	1	G_KS
+NR0B1	suggesting	41	87	1	G_KS
+TBXAS1	suggesting	42	87	1	G_KS
+MYO3A	suggesting	43	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+DHODH	suggesting	44	87	1	G_KS
+RECQL	known	45	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+ACVRL1	suggesting	46	87	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+WRN	known	32	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+POLE	known	47	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+FLT3	suggesting	48	87	1	G_KS
+LATS1	suggesting	49	87	1	G_KS
+CA4	suggesting	50	87	1	G_KS
+ESRRB	suggesting	51	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+ABCC2	suggesting	52	87	1	G_KS
+POLE	known	47	88	1	G_KS
+DHCR7	known	37	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+BLM	known	53	88	1	G_KS
+MAP3K20	suggesting	54	87	1	G_KS
+ACVRL1	suggesting	46	87	1	G_KS
+BMPR1A	known	55	88	1	G_KS
+TGFBR2	known	56	88	1	G_KS
+AKR1C1	suggesting	24	87	1	G_KS
+TUBB3	suggesting	57	87	1	G_KS
+EPHA2	suggesting	58	87	1	G_KS
+LDLR	suggesting	17	87	1	G_KS
+PSMB8	suggesting	35	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+KCNH2	suggesting	59	87	1	G_KS
+IL11RA	suggesting	60	87	1	G_KS
+IL2RA	suggesting	61	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+DHCR7	known	37	88	1	G_KS
+POLH	known	62	88	1	G_KS
+DHCR7	known	37	88	1	G_KS
+TP53	known	19	88	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+POLE	known	47	88	1	G_KS
+JAK3	suggesting	38	87	1	G_KS
+RBP4	suggesting	63	87	1	G_KS
+MYO3A	suggesting	43	87	1	G_KS
+ALK	known	25	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+CHEK2	known	33	88	1	G_KS
+AKR1C1	suggesting	24	87	1	G_KS
+ERBB4	known	64	88	1	G_KS
+ESRRB	suggesting	51	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+RECQL	known	45	88	1	G_KS
+MERTK	suggesting	39	87	1	G_KS
+ADA	suggesting	30	87	1	G_KS
+VDR	suggesting	65	87	1	G_KS
+RECQL	known	45	88	1	G_KS
+ADA	suggesting	30	87	1	G_KS
+MUSK	suggesting	66	87	1	G_KS
+RIPK4	suggesting	67	87	1	G_KS
+GNRHR	suggesting	18	87	1	G_KS
+POLH	known	62	88	1	G_KS
+IL12B	suggesting	68	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+MYLK	suggesting	69	87	1	G_KS
+C5	suggesting	70	87	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+EIF2AK4	suggesting	71	87	1	G_KS
+ALK	known	25	88	1	G_KS
+DHODH	suggesting	44	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+MC4R	suggesting	23	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+BLM	known	53	88	1	G_KS
+CYP19A1	suggesting	72	87	1	G_KS
+JAK3	suggesting	38	87	1	G_KS
+EGFR	known	73	88	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+ADA	suggesting	30	87	1	G_KS
+MAP3K20	suggesting	54	87	1	G_KS
+SLCO1B3	suggesting	74	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+TP53	known	19	88	1	G_KS
+GLRA1	suggesting	16	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+ADA	suggesting	30	87	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+MYO3A	suggesting	43	87	1	G_KS
+JAK3	suggesting	38	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+MC4R	suggesting	23	87	1	G_KS
+BMPR2	suggesting	75	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+IMPDH1	suggesting	76	87	1	G_KS
+HBB	suggesting	77	87	1	G_KS
+KIT	known	78	88	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+MC4R	suggesting	23	87	1	G_KS
+BRCA1	known	28	88	1	G_KS
+AR	known	31	88	1	G_KS
+NTRK1	known	22	88	1	G_KS
+NR1H4	suggesting	79	87	1	G_KS
+ICAM1	suggesting	80	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+EPHX2	suggesting	81	87	1	G_KS
+ERBB3	suggesting	82	87	1	G_KS
+MAP3K20	suggesting	54	87	1	G_KS
+HDAC10	suggesting	83	87	1	G_KS
+CYP19A1	suggesting	72	87	1	G_KS
+PNP	suggesting	84	87	1	G_KS
+CA12	suggesting	27	87	1	G_KS
+HBB	suggesting	77	87	1	G_KS
+DHCR7	known	37	88	1	G_KS
+MERTK	suggesting	39	87	1	G_KS
+RXRG	suggesting	85	87	1	G_KS
+ABCC2	suggesting	52	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+MERTK	suggesting	39	87	1	G_KS
+CHEK2	known	33	88	1	G_KS
+PDGFRA	known	86	88	1	G_KS
+DHODH	suggesting	44	87	1	G_KS
+MAP3K20	suggesting	54	87	1	G_KS
+CYP11B1	suggesting	20	87	1	G_KS
+KIT	known	78	88	1	G_KS
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Pathogenic	88	89	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Pathogenic	87	89	1	KS_IVAP
+suggesting	Likely Pathogenic	87	90	1	KS_IVAP
+known	Likely Pathogenic	88	90	1	KS_IVAP
