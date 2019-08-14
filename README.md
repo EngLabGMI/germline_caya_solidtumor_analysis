@@ -62,12 +62,11 @@
 - [CHD_only_monoallelic_Oncoplots](analysis/CHD/CHD_only_monoallelic_Oncoplots.ipynb)
 - [CHD_monoallelic_Heatmap](analysis/CHD/CHD_monoallelic_Heatmap.ipynb)
 
-### Data
-- table dir contain the supplimentary excel files
 ### Scripts 
 - includes inhouse scipts to process and anlayze the data
 
 ### Data
+- table dir contain the supplimentary excel files
 - Browse the data at [SRA RunSelector](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA559601)
 - Summary List for project PRJNA559601 [here](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA559601)
 
