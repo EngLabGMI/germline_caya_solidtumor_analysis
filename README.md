@@ -67,4 +67,10 @@
 ### Scripts 
 - includes inhouse scipts to process and anlayze the data
 
+### Data
+- Browse the data at [SRA RunSelector](https://www.ncbi.nlm.nih.gov/sra/?term=PRJNA559601)
+- Summary List for project PRJNA559601 [here](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=PRJNA559601)
+
+
 ***
+
