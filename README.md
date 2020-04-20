@@ -1,7 +1,7 @@
 
-# Data Analysis for :  Diverse Genes with Germline Variants Converging on p53 Network May Predispose to Solid Tumors in Children, Adolescents, and Young Adults
+# Data Analysis for :  Comprehensive germline genomic profiles of children, adolescents and young adults with solid tumors
 
-- This github dir contains the data analysis jupyter notebooks, scripts and data tables accompaning the paper :  ```Diverse Genes with Germline Variants Converging on p53 Network May Predispose to Solid Tumors in Children, Adolescents, and Young Adults```
+- This github dir contains the data analysis jupyter notebooks, scripts and data tables accompaning the paper :  ```Comprehensive germline genomic profiles of children, adolescents and young adults with solid tumors```
 	- GermLine Analysis of Children, Adolescents, and Young Adults (C-AYA) with SolidTumor  
 - Authors :  ```Sara Akhavanfard, Roshan Padmanabhan, Lamis Yehia, Feixiong Cheng, Charis Eng```
 
